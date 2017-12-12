@@ -1,8 +1,8 @@
 {
   "name": "so-sketchy",
-  "version": "47.1.0",
-  "description": "",
-  "bin": "sketchtool/bin/sketchtool",
+  "version": "47.1.1",
+  "description": "A Node.js wrapper around sketchtool",
+  "bin": "so-sketchy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
