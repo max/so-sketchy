@@ -1,0 +1,12 @@
+{
+  "name": "so-sketchy",
+  "version": "47.1.0",
+  "description": "",
+  "bin": "sketchtool/bin/sketchtool",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Max Schoening <max@max.wtf>",
+  "license": "MIT"
+}
